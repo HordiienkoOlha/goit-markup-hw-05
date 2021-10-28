@@ -640,3 +640,9 @@ body {
   color: inherit;
   display: block;
 }
+.projects-text {
+  font-size: 18px;
+  line-height: 1.56;
+  color: var(--primary-white-color);
+  background-color: rgba(33, 150, 243, 0.9);
+}
